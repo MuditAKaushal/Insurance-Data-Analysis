@@ -1,4 +1,4 @@
-# Insurance-Data-Analysis
+# Insurance Data Analysis
 
 This is a end to end Power Bi project for Prism Insurance Pvt. Ltd. 
 Insurance Claims and Policy Analysis Dashboard
@@ -9,6 +9,7 @@ To analyze the Insurance Policy and Claims Dataset to uncover customer behavior,
 
 # Steps Followed
 # Questions:
+
 1. What are the most popular policy types and how do they vary across different customer groups?
 
 Analyze policy distribution by:
